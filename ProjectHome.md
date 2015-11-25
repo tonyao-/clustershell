@@ -1,0 +1,3 @@
+ClusterShell is an event-based Python library to execute commands on local or distant cluster nodes in parallel depending on the selected engine and worker mechanisms. The library provides advanced nodeset and [NodeGroups](http://sourceforge.net/apps/trac/clustershell/wiki/NodeGroups) handling methods. Its goal is to improve the administration of cluster by providing a lightweight but scalable API for developers.
+
+Also, [clush](http://sourceforge.net/apps/trac/clustershell/wiki/ClushCommand), clubak and [nodeset](http://sourceforge.net/apps/trac/clustershell/wiki/NodesetCommand), three convenient command-line tools using the library are included.
